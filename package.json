@@ -1,0 +1,17 @@
+{
+  "name": "advent-js-2023",
+  "version": "1.0.0",
+  "description": "Retos de Advent Js 2023",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./challenge/challenge-4/main.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
